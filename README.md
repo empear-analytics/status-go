@@ -1,3 +1,5 @@
+This repository contains large number of branches - it's a good one for testing project config in CodeScene cloud.
+
 # Status bindings for go-ethereum
 
 [![TravisCI Builds](https://img.shields.io/badge/TravisCI-URL-yellowgreen.svg?link=https://travis-ci.org/status-im/status-go)](https://travis-ci.org/status-im/status-go)
